@@ -36,7 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ## 🎥 Demo Video
-<video width="600" controls>
-  <source src="intro.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch Demo](screenshot.jpg)](intro.mp4)
