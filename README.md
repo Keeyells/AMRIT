@@ -37,3 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## 🎥 Demo Video
 [![Watch Demo](screenshot.jpg)](Intro.gif)
+
+## 📊 Project Presentation
+
+[View Presentation Online](https://www.canva.com/design/DAGy8NrgvJE/XAxOL7Aodt9mteGp30LQsg/view?utm_content=DAGy8NrgvJE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10a21a2e46)
